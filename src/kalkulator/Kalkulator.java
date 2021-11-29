@@ -16,8 +16,13 @@ public class Kalkulator {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Kalkulator1 fKalkulator1 = new Kalkulator1 ();
-fKalkulator1.setVisible(true);
+        new Kalkulator1().setVisible(true);
     }
+
+    static void getData() {
+        
+    }
+    
+    
     
 }
